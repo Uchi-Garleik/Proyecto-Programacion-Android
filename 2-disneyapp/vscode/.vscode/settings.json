@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme"
+}
